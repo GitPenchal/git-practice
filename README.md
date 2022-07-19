@@ -1,2 +1,3 @@
 # git-practice
-hello h w ru
+hello h r u
+i am fine
